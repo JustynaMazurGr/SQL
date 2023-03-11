@@ -1,6 +1,5 @@
 # SQL
-To jest zadanie ćwiczeniowe - budowa bazy danych w SQL.
-This is an exercise task - building a database in SQL.
+## To jest zadanie ćwiczeniowe - budowa bazy danych w SQL.
 
 Zadanie:
 Baza danych ma zawierać minimum 5 tabel połączonych ze sobą relacjami (jedna z tabel musi łączyć się z minimum dwoma innymi).
@@ -10,6 +9,8 @@ Kolumny muszą być zarówno typu tekstowego, jak i liczbowego.
 Do tabeli dodaj minimum 2-3 rekordy.
 
 Utwórz zapytanie wyświetlające rekordy z minimum dwóch tabel.
+
+## This is an exercise task - building a database in SQL.
 
 Task:
 The database should contain at least 5 tables connected to each other through relationships (one of the tables must be connected to at least two other tables).
