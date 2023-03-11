@@ -10,3 +10,12 @@ Kolumny muszą być zarówno typu tekstowego, jak i liczbowego.
 Do tabeli dodaj minimum 2-3 rekordy.
 
 Utwórz zapytanie wyświetlające rekordy z minimum dwóch tabel.
+
+Task:
+The database should contain at least 5 tables connected to each other through relationships (one of the tables must be connected to at least two other tables).
+Each table should contain at least 5 columns including the primary key and foreign key.
+The tables should contain either CHECK or DEFAULT instructions.
+The columns must be of both text and numeric type.
+Add at least 2-3 records to the table.
+
+Create a query that displays records from at least two tables.
